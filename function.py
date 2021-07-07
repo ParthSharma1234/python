@@ -1,0 +1,10 @@
+mystr="parth is a good boy"
+print(mystr.isalnum())
+print(mystr.isalpha())
+print(mystr.endswith("boy"))
+print(mystr.endswith("dboy"))
+print(mystr.count("o"))
+print(mystr.capitalize())
+print(mystr.lower())
+print(mystr.upper())
+print(mystr.replace("good", "handsome"))
