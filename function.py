@@ -1,4 +1,4 @@
-mystr="parth is a good boy"
+mystr="A is a good boy"
 print(mystr.isalnum())
 print(mystr.isalpha())
 print(mystr.endswith("boy"))
