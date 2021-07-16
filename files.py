@@ -1,7 +1,7 @@
-#f = open("parth.txt") #opeaning a file
-#f= open("parth.txt","rt")
-#f= open("parth.txt","w") #writing in a file
-f= open("parth.txt","a") #append in a file
+#f = open("A.txt") #opeaning a file
+#f= open("A.txt","rt")
+#f= open("A.txt","w") #writing in a file
+f= open("A.txt","a") #append in a file
 f.write("c++ is best!!")
 #content = f.read()
 #rt=read all the lines and return them as each line
