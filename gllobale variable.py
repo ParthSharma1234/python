@@ -1,13 +1,9 @@
 #Use of global keyword:To access a global variable inside a function there is no need to use global keyword.
-# Python program showing no need to
-# use global keyword for accessing
-# a global value
 
 # global variable
 """ a = 15
 b = 10
 
-# function to perform addition
 def add():
 	c = a + b
 	print(c)
@@ -33,9 +29,6 @@ def change():
 change()"""
 
 #With global keyword
-
-# Python program to modify a global
-# value inside a function
 
 """x = 15
 def change():
